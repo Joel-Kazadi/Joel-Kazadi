@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joel-Kazadi
 - 👀 I’m interested in Applied Statistics and Data Analysis
 - 🌱 I’m very passionate about Machine Learning using R and Python languages
-- 💞️ I’m looking to collaborate on Data Science projects
+- 💞️ I’m looking to collaborate on real-world Data Science projects
 - 📫 How to reach me https://www.linkedin.com/in/jo%C3%ABl-kazadi-8451a622b/
 
 <!---
